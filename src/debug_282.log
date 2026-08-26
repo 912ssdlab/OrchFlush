@@ -1,0 +1,59 @@
+MQSim started at Fri Jul 31 13:16:44 2026
+
+******************************
+Executing scenario 1 out of 1 .......
+no_of_translation_entries_per_page 2048
+pre 524288 51600
+472688
+21
+17612800
+369868800
+2048 all 17612800
+cmt_capacity  22508
+7130317
+start Add_mpvn_data 14970880 14970880
+start Add_vaild_data 14970880 8.98253e+06
+start Add_invaild_data 14970880 3.74272e+06
+Investigating input trace file: /home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+Trace file: /home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48 seems healthy total_requests_in_file in file is 15968017
+start0 228170135
+[>                   ]  0% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=>                  ]  5% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[==>                 ]  10% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[===>                ]  15% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+MQSim finished at Fri Jul 31 13:19:32 2026
+
+1785475004 1785475172
+Total simulation time: 0:2:48
+
+Writing results to output file .......
+Flow Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48 - total requests generated: 15968017 total requests serviced:2440691
+                   - device response time: 7562030 (us) end-to-end request delay:35717009 (us)
+waiting_requests.size 13461791
+8237425 TSU_Priority_OutOfOrder 0
+0
+0 TSU_Base 
+0	0	0	0
+1
+Address_Mapping_Unit_Page_Level restWrite 0
+unSuccess 801
+Write_transactions_behind_LPA_barrier 0
+Waiting_unmapped_program_transactions 0
+Waiting_unmapped_read_transactions 0
+u count 801
+Address_Mapping_Unit_Page_Level readCount  0
+54812614.650433
+GC_and_WL_Unit_Base 451514747424227
+GC_and_WL_Unit_Base 8237424
+arrivedReq 2441203
+restWrite 0
+back_pressure_buffer_depth is 0
+back_pressure_buffer_max_depth 512
+LBA is172685056
+size is304
+byte size is155648
+Simulation complete; Press any key to exit.

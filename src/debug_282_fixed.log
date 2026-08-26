@@ -1,0 +1,90 @@
+MQSim started at Fri Jul 31 13:22:43 2026
+
+******************************
+Executing scenario 1 out of 1 .......
+no_of_translation_entries_per_page 2048
+pre 524288 51600
+472688
+21
+17612800
+369868800
+2048 all 17612800
+cmt_capacity  22508
+7130317
+start Add_mpvn_data 14970880 14970880
+start Add_vaild_data 14970880 8.98253e+06
+start Add_invaild_data 14970880 3.74272e+06
+Investigating input trace file: /home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+Trace file: /home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48 seems healthy total_requests_in_file in file is 15968017
+start0 228170135
+[>                   ]  0% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=>                  ]  5% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[==>                 ]  10% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[===>                ]  15% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[====>               ]  20% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=====>              ]  25% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[======>             ]  30% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=======>            ]  35% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[========>           ]  40% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=========>          ]  45% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[==========>         ]  50% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[===========>        ]  55% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[============>       ]  60% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=============>      ]  65% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[==============>     ]  70% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[===============>    ]  75% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[================>   ]  80% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[=================>  ]  85% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[==================> ]  90% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[===================>]  95% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+[====================]  100% progress in Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48
+
+MQSim finished at Fri Jul 31 13:44:10 2026
+
+1785475363 1785476650
+Total simulation time: 0:21:27
+
+Writing results to output file .......
+Flow Host.IO_Flow.Trace./home/ccgo/dockerDir/ssd/mqsim/tmpCP/282_all_1000.W62.Len48 - total requests generated: 15968017 total requests serviced:15968017
+                   - device response time: 4818217 (us) end-to-end request delay:12596266 (us)
+waiting_requests.size 0
+47240252 TSU_Priority_OutOfOrder 0
+0
+0 TSU_Base 
+0	0	0	0
+0
+Address_Mapping_Unit_Page_Level restWrite 0
+unSuccess 0
+Write_transactions_behind_LPA_barrier 0
+Waiting_unmapped_program_transactions 0
+Waiting_unmapped_read_transactions 0
+u count 0
+Address_Mapping_Unit_Page_Level readCount  0
+46177202.645479
+GC_and_WL_Unit_Base 2181422689627483
+GC_and_WL_Unit_Base 47240252
+arrivedReq 15968017
+restWrite 0
+back_pressure_buffer_depth is 0
+back_pressure_buffer_max_depth 512
+Simulation complete; Press any key to exit.

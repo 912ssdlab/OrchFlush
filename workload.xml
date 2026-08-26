@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<MQSim_IO_Scenarios>
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/ali/123_all_100.W99.Len16</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+
+	
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/ali/445_all_100.W76.Len22</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/ali/446_all_100.W99.Len17</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/ali/483_all_100.W99.Len15</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/lunP/1616_all</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/lunP/1617_all</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/lunP/1618_all</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+
+
+	<IO_Scenario>
+		<IO_Flow_Parameter_Set_Trace_Based>
+			<Priority_Class>HIGH</Priority_Class>
+			<Device_Level_Data_Caching_Mode>TURNED_OFF</Device_Level_Data_Caching_Mode>
+			<Channel_IDs>0,1,2,3,4,5,6,7</Channel_IDs>
+			<Chip_IDs>0,1</Chip_IDs>
+			<Die_IDs>0</Die_IDs>
+			<Plane_IDs>0</Plane_IDs>
+			<Initial_Occupancy_Percentage>70</Initial_Occupancy_Percentage>
+			<File_Path>/home/trace/lunP/1620_all</File_Path>
+			<Percentage_To_Be_Executed>100</Percentage_To_Be_Executed>
+			<Relay_Count>1</Relay_Count>
+			<Time_Unit>NANOSECOND</Time_Unit>
+		</IO_Flow_Parameter_Set_Trace_Based>
+	</IO_Scenario>
+	
+		
+	
+</MQSim_IO_Scenarios>

@@ -1,0 +1,88 @@
+MQSim started at Fri Jul 31 13:46:43 2026
+
+******************************
+Executing scenario 1 out of 1 .......
+no_of_translation_entries_per_page 1024
+pre 524288 24
+524264
+15
+7968
+119520
+1024 all 7968
+cmt_capacity  34950
+5222
+start Add_mpvn_data 6772 6772
+start Add_vaild_data 6772 4063.2
+start Add_invaild_data 6772 1693
+start0 35508
+[>                   ]  0% progress in Host.IO_Flow.Synth.No_0
+
+[=>                  ]  5% progress in Host.IO_Flow.Synth.No_0
+
+[==>                 ]  10% progress in Host.IO_Flow.Synth.No_0
+
+[===>                ]  15% progress in Host.IO_Flow.Synth.No_0
+
+[====>               ]  20% progress in Host.IO_Flow.Synth.No_0
+
+[=====>              ]  25% progress in Host.IO_Flow.Synth.No_0
+
+[======>             ]  30% progress in Host.IO_Flow.Synth.No_0
+
+[=======>            ]  35% progress in Host.IO_Flow.Synth.No_0
+
+[========>           ]  40% progress in Host.IO_Flow.Synth.No_0
+
+[=========>          ]  45% progress in Host.IO_Flow.Synth.No_0
+
+[==========>         ]  50% progress in Host.IO_Flow.Synth.No_0
+
+[===========>        ]  55% progress in Host.IO_Flow.Synth.No_0
+
+[============>       ]  60% progress in Host.IO_Flow.Synth.No_0
+
+[=============>      ]  65% progress in Host.IO_Flow.Synth.No_0
+
+[==============>     ]  70% progress in Host.IO_Flow.Synth.No_0
+
+[===============>    ]  75% progress in Host.IO_Flow.Synth.No_0
+
+[================>   ]  80% progress in Host.IO_Flow.Synth.No_0
+
+[=================>  ]  85% progress in Host.IO_Flow.Synth.No_0
+
+[==================> ]  90% progress in Host.IO_Flow.Synth.No_0
+
+[===================>]  95% progress in Host.IO_Flow.Synth.No_0
+
+[====================]  100% progress in Host.IO_Flow.Synth.No_0
+
+MQSim finished at Fri Jul 31 13:46:43 2026
+
+1785476803 1785476803
+Total simulation time: 0:0:0
+
+Writing results to output file .......
+Flow Host.IO_Flow.Synth.No_0 - total requests generated: 1200 total requests serviced:1200
+                   - device response time: 1102 (us) end-to-end request delay:1102 (us)
+waiting_requests.size 0
+1340 TSU_Priority_OutOfOrder 0
+0
+0 TSU_Base 
+0	0	0	0
+0
+Address_Mapping_Unit_Page_Level restWrite 0
+unSuccess 0
+Write_transactions_behind_LPA_barrier 0
+Waiting_unmapped_program_transactions 0
+Waiting_unmapped_read_transactions 0
+u count 0
+Address_Mapping_Unit_Page_Level readCount  0
+1404718.091045
+GC_and_WL_Unit_Base 1882322242
+GC_and_WL_Unit_Base 1340
+arrivedReq 1200
+restWrite 0
+back_pressure_buffer_depth is 0
+back_pressure_buffer_max_depth 32
+Simulation complete; Press any key to exit.
